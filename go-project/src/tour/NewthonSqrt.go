@@ -1,4 +1,4 @@
-package utils
+package tour
 
 func Sqrt(x float64) (z float64) {
 	z = 1.0
